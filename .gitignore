@@ -29,3 +29,6 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+#ignore index file
+/odin_on_rails/my_first_rails_app/.git/indexfs
